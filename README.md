@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ullas Ganesh</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Java Developer</h3>
 
 - 🌱 I’m currently learning **Spring**
 
