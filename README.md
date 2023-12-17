@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ullas Ganesh</h1>
+<h1 align="center">Hi 👋, I'm Ullas</h1>
 <h3 align="center">Java Developer</h3>
 
 - 🌱 I’m currently learning **Spring**
+
+- 🔰 Tech's I work on Java, Hibernate, JPA, MySQL, HTML, CSS, JS, JSP ... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ullasganesh01](https://github.com/Ullasganesh01)
 
