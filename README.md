@@ -11,7 +11,7 @@
   
 - 📫 How to reach me **ullasganesh18@gmail.com , ullasganesh01@gmail.com**
 
-- 📄 Find my Resume [(https://ullasganesh01.github.io/Resume-CV/)](https://ullasganesh01.github.io/Resume-CV/)
+- 📄 Find my Resume [https://ullasganesh01.github.io/Resume-CV/](https://ullasganesh01.github.io/Resume-CV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
