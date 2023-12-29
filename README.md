@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 🔰 Tech's I work on : Java, Spring(MVC), Apache Tomcat, Hibernate, JPA, MySQL, JSP, HTML, CSS, Javascript, ... 
+- 🔰 Tech's I work on : Java, Spring(MVC), Apache Tomcat, JPA, Hibernate, MySQL, JSP, HTML, CSS, Javascript, ... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ullasganesh01](https://github.com/Ullasganesh01)
 
