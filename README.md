@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ullasganesh01](https://github.com/Ullasganesh01)
 
+- 👨‍💻 All of my works related to Java, Spring and JPA is available at [[https://github.com/Ullasganesh01](https://github.com/Ullasganesh01/java-full-stack)]
+  
 - 📫 How to reach me **ullasganesh18@gmail.com , ullasganesh01@gmail.com**
 
 - 📄 Find my Resume ([https://github.com/Ullasganesh01/Resume-CV/blob/main/ULLAS%20G.pdf](https://github.com/Ullasganesh01/Resume-CV/blob/main/ULLAS-G.pdf))
