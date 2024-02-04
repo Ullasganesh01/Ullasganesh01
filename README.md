@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my works related to Java, Spring and JPA is available at [https://github.com/Ullasganesh01/java-full-stack](https://github.com/Ullasganesh01/java-full-stack)
 
-- 📢 Checkout My recent Spring Web MVC Project at [https://github.com/Ullasganesh01/namma-metro](https://github.com/Ullasganesh01/namma-metro)
+- 📢 Checkout My recent Spring Web MVC Project at [https://github.com/Ullasganesh01/gourmet-recipes](https://github.com/Ullasganesh01/gourmet-recipes)
   
 - 📫 How to reach me **ullasganesh18@gmail.com , ullasganesh01@gmail.com**
 
